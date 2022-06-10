@@ -1,5 +1,17 @@
-saif open -file test.saif -allnets
+# saif open -file test.saif -allnets
 
   run 100us
 
 saif close
+
+# Steps: 
+
+1. Generate Post-Place & Route Simulation Model
+
+2. In simulation run Post-Route simulation and then click restart after that type these commands 
+
+       1. saif open -file test.saif -allnets
+       2.  run 100us
+       3. saif close
+
+

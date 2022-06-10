@@ -1,0 +1,5 @@
+saif open -file test.saif -allnets
+
+  run 100us
+
+saif close
